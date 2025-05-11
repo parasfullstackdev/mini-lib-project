@@ -29,12 +29,12 @@ A React-based online library system that allows users to browse, search, and add
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/parasfullstackdev/mini-lib-project.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd online-library-system
+cd mini-lib-project
 ```
 
 3. Install dependencies:
@@ -66,4 +66,3 @@ http://localhost:5173
 - `npm run dev` - Starts the development server
 - `npm run build` - Builds the app for production
 - `npm run preview` - Previews the production build locally
-
