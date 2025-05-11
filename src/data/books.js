@@ -1,0 +1,63 @@
+export const books = [
+  {
+    id: 1,
+    title: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    category: "Fiction",
+    description: "A story of decadence and excess, Gatsby explores the American Dream.",
+    rating: 4.5,
+    isPopular: true,
+  },
+  {
+    id: 2,
+    title: "Dune",
+    author: "Frank Herbert",
+    category: "Sci-Fi",
+    description: "A science fiction masterpiece about politics, religion, and power.",
+    rating: 4.8,
+    isPopular: true,
+  },
+  {
+    id: 3,
+    title: "A Brief History of Time",
+    author: "Stephen Hawking",
+    category: "Non-Fiction",
+    description: "An exploration of cosmology by renowned physicist Stephen Hawking.",
+    rating: 4.6,
+    isPopular: true,
+  },
+  {
+    id: 4,
+    title: "1984",
+    author: "George Orwell",
+    category: "Fiction",
+    description: "A dystopian social science fiction that explores totalitarianism.",
+    rating: 4.7,
+    isPopular: true,
+  },
+  {
+    id: 5,
+    title: "Foundation",
+    author: "Isaac Asimov",
+    category: "Sci-Fi",
+    description: "The story of the Foundation, an institute dedicated to preserving human knowledge.",
+    rating: 4.4,
+    isPopular: false,
+  },
+  {
+    id: 6,
+    title: "Sapiens",
+    author: "Yuval Noah Harari",
+    category: "Non-Fiction",
+    description: "A brief history of humankind and our evolution.",
+    rating: 4.7,
+    isPopular: true,
+  },
+];
+
+export const categories = [
+  "All",
+  "Fiction",
+  "Non-Fiction",
+  "Sci-Fi",
+]; 
